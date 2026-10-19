@@ -34,6 +34,3 @@ KQD.pdsprj       # Proteus simulation project
 
 ### Simulation
 Open `KQD.pdsprj` in Proteus to run the virtual circuit.
-
-## 📄 License
-No license specified.
